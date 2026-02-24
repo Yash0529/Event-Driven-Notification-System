@@ -13,6 +13,9 @@ Health Check
 Metrics Dashboard
 `https://event-driven-notification-system.onrender.com/metrics`
 
+Queues Dashboard
+`https://event-driven-notification-system.onrender.com/admin/queues`
+
 
 
 ## Architecture

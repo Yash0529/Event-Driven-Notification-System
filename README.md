@@ -58,6 +58,7 @@ This ensures:
 * Structured logging
 * Metrics endpoint
 * Health checks
+* Bullmq Dasbaord(using Bull-board)
 
 
 ## Features

@@ -1,5 +1,5 @@
 ## System Architecture
-![architecture](docs/architecture.png)
+![architecture](architecture.png)
 
 
 ## Distributed Event-Driven Notification Platform

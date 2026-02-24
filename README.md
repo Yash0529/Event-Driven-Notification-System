@@ -1,3 +1,7 @@
+## System Architecture
+![architecture](docs/architecture.png)
+
+
 ## Distributed Event-Driven Notification Platform
 
 A production-style backend infrastructure that processes notifications asynchronously using a distributed worker architecture.
